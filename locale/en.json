@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Notification Chimes",
+    "description": "Plays a soft chime when the Agent asks for permission or finishes a task, like Codex."
+  }
+}

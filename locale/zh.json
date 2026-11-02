@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "任务提示音",
+    "description": "Agent 请求权限或完成任务时播放一声轻提示音，像 Codex 一样。"
+  }
+}
